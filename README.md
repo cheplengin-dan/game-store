@@ -3,7 +3,7 @@ CIGY GameStore is a simple web app that allows users to view a list of games and
 
 ## Installation
 Clone the repository to your local machine.
-Install the required dependencies by running 'npm install' in the root directory.
+Install the required dependencies by running 'npm install && npm i react-router-dom' in the root directory.
 
 ## Usage
 Start the app by running 'npm start' in the root directory.
