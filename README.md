@@ -1,4 +1,4 @@
-## CIYG GameStore
+### CIYG GameStore
 CIGY GameStore is a simple web app that allows users to view a list of games and their details, and purchase or refund a game.
 
 # Installation
