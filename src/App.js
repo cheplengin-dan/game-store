@@ -1,3 +1,5 @@
+// This is the main component of the app that renders the navigation bar, and uses react-router-dom to render the appropriate components based on the current URL. The handlePurchase and handleRefund functions are passed as props to the GameDetails component.
+
 import './App.css';
 import React, { useState, useEffect } from 'react';
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
