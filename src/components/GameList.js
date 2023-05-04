@@ -23,4 +23,3 @@ const GameList = ({ games, setSelectedGame }) => {
 };
 
 export default GameList;
-

@@ -47,7 +47,7 @@ const App = () => {
       </nav>
 
       <Routes>
-        <Route path="/" element={<h1>Welcome to the GameStore</h1>} />
+        <Route path="/" element={<h1>Welcome to CIYG GameStore</h1>} />
         <Route
           path="/games"
           element={<GameList games={games} setSelectedGame={setSelectedGame} />}
